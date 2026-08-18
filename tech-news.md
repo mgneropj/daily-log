@@ -70,3 +70,11 @@
 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 
+## 2026-08-18
+
+- [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
+- [Fixing a Bricked Framework Laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
+- [The Amazon Tax](https://seths.blog/2026/08/the-amazon-tax/)
+- [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
+- [How I Under-Engineered My Book](https://chriskiehl.com/article/how-i-under-engineered-my-book)
+
