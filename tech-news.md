@@ -78,3 +78,11 @@
 - [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
 - [How I Under-Engineered My Book](https://chriskiehl.com/article/how-i-under-engineered-my-book)
 
+## 2026-08-19
+
+- [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
+- [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
+- [OpenLogi](https://openlogi.org/en)
+- [Cerebras CS-4](https://www.cerebras.ai/cs4)
+- [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
+
