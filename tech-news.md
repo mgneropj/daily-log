@@ -102,3 +102,11 @@
 - [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
 - [Cerebras CS-4](https://www.cerebras.ai/cs4)
 
+## 2026-08-19
+
+- [Civic Hygiene – avoid building technologies that could be used by a police state](https://shkspr.mobi/blog/2013/11/civic-hygiene/)
+- [New Casio F-B100W – Upgrade to the iconic F-91W after 40 years](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)
+- [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
+- [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
+- [OpenLogi](https://openlogi.org/en)
+
