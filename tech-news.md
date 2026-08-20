@@ -110,3 +110,11 @@
 - [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 - [OpenLogi](https://openlogi.org/en)
 
+## 2026-08-20
+
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+- [Go 1.27](https://go.dev/blog/go1.27)
+- [Turns are Better than Radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
+- [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
+- [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
+
