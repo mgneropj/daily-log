@@ -126,3 +126,11 @@
 - [Go 1.27](https://go.dev/blog/go1.27)
 - [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
 
+## 2026-08-20
+
+- [Don't Paste the AI, please](https://dontpastetheai.com/)
+- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
+- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)
+- [Windows brings out the Rorschach test in everyone (2003)](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+
