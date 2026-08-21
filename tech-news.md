@@ -166,3 +166,11 @@
 - [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
 - [Small, native web tricks worth remembering](https://htmlcat.net/)
 
+## 2026-08-21
+
+- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
+- [Omacom Foundation Launches with $8M](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/)
+- [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
+- [I accidentally logged phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
+
