@@ -230,3 +230,11 @@
 - [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
 - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
 
+## 2026-08-23
+
+- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
+- [How Complex Systems Fail](https://how.complexsystems.fail/)
+- [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
+- [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/)
+- [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
+
