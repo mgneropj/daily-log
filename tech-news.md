@@ -278,3 +278,11 @@
 - [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
 - [Moon (2024)](https://ciechanow.ski/moon/)
 
+## 2026-08-25
+
+- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+- [Nostr is an inclusive communication commons](https://nostr.org/)
+- [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
+- [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
+- [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
+
