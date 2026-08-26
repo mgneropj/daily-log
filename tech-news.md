@@ -318,3 +318,11 @@
 - [Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
 - [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
 
+## 2026-08-26
+
+- [RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think)
+- [Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/)
+- [Merchants of Insecurity](https://blog.happyfellow.dev/merchants-of-insecurity/)
+- [Bill Gates: The turbulent AI era is here](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make)
+- [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+
