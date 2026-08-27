@@ -350,3 +350,11 @@
 - [Gemini Omni 1.1 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/)
 - [Decompiling a Nintendo 64 game in 84 days](https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/)
 
+## 2026-08-27
+
+- [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+- [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
+- [507 Mechanical Movements](https://507movements.com/)
+- [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
+- [Show HN: We built open OpenRouter that turns usage into a better model](https://github.com/experientiallabs/experiential)
+
