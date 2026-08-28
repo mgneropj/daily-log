@@ -358,3 +358,11 @@
 - [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
 - [Show HN: We built open OpenRouter that turns usage into a better model](https://github.com/experientiallabs/experiential)
 
+## 2026-08-28
+
+- [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+- [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
+- [507 Mechanical Movements](https://507movements.com/)
+- [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
+- [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/)
+
