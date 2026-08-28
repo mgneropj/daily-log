@@ -366,3 +366,11 @@
 - [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
 - [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/)
 
+## 2026-08-28
+
+- ["IT WoRKs BeTter in the App "](https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/)
+- [Get your Windows license refund](https://en.refund4freedom.org/)
+- [Inception-style curved map for turn-by-turn directions](https://www.orbify.eu/demo/)
+- [OpenAI: Migrating to HTTPX2](https://github.com/openai/openai-python/blob/main/httpx2.md)
+- [I Used AWS Cognito for a Startup. I Wouldn't Do It Again](https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/)
+
