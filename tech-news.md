@@ -414,3 +414,11 @@
 - [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
 - [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
 
+## 2026-08-29
+
+- [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/)
+- [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support)
+- [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html)
+- [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/)
+- [Show HN: Typebase – A single-folder back end you write in TypeScript](https://typebase.io)
+
