@@ -446,3 +446,11 @@
 - [Longest Straight Line Paths on Water or Land on the Earth (2018)](https://arxiv.org/abs/1804.07389)
 - [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 
+## 2026-08-30
+
+- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
+- [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
+- [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/)
+- [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8)
+
