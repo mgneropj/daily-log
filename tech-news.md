@@ -478,3 +478,11 @@
 - [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
 - [Culture Clash](https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash)
 
+## 2026-08-31
+
+- [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+- [Playa Phone](https://playaphone.com/)
+- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
+- [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
+- [Tmp.0ut, Vol. 5](https://tmpout.sh/5/)
+
