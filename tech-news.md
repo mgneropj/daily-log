@@ -510,3 +510,11 @@
 - [American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career](https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/)
 - [GPU World](https://www.gpuworld.org/)
 
+## 2026-09-01
+
+- [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566)
+- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
+- [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897)
+- [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/)
+- [Io_uring Without Readahead](https://frn.sh/io-uring/)
+
