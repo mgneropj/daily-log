@@ -494,3 +494,11 @@
 - [Show HN: Laser Graffiti](https://laser.consti.de)
 - ['Mad honey' that can stop your heart is being sold online](https://phys.org/news/2026-08-mad-honey-heart-sold-online.html)
 
+## 2026-09-01
+
+- [GPU World](https://www.gpuworld.org/)
+- [Fastpotify](https://fastpotify.rocks/)
+- [Tmp.0ut Volume 5](https://tmpout.sh/5/)
+- [Restroom Archive](https://restroomarchive.com)
+- [Playa Phone](https://playaphone.com/)
+
