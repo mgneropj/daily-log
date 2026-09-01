@@ -518,3 +518,11 @@
 - [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/)
 - [Io_uring Without Readahead](https://frn.sh/io-uring/)
 
+## 2026-09-01
+
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+- [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566)
+- [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc)
+- [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
+- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
+
