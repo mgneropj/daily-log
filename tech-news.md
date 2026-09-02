@@ -526,3 +526,11 @@
 - [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
 - [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
 
+## 2026-09-02
+
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
+- [Salad Theory](https://saladtheory.github.io/)
+- [WebFPGA](https://webfpga.io/)
+
