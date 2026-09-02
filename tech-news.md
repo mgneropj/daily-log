@@ -542,3 +542,11 @@
 - [It's OK to hardcode feature flags (2025)](https://code.mendhak.com/hardcode-feature-flags/)
 - [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
 
+## 2026-09-02
+
+- [Gemini 3.8 Flash](https://deepmind.google/models/model-cards/gemini-3-8-flash/)
+- [A Note from LWN](https://lwn.net/Articles/1090585/)
+- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+- [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
+- [Biggest dark matter detector spots a single weird particle](https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle)
+
