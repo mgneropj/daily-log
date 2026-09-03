@@ -574,3 +574,11 @@
 - [Invisible Companies](https://colossus.com/article/invisible-companies/)
 - [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
 
+## 2026-09-03
+
+- [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
+- [Sony makes bold claim about game ownership](https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/)
+- [Grok Outage](https://status.x.ai/)
+- [ChatGPT Is Throwing 404](https://chatgpt.com/)
+- [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+
