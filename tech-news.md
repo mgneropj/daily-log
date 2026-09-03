@@ -566,3 +566,11 @@
 - [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight)
 - [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
 
+## 2026-09-03
+
+- [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
+- [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
+- [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/)
+- [Invisible Companies](https://colossus.com/article/invisible-companies/)
+- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+
