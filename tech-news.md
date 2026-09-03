@@ -582,3 +582,11 @@
 - [ChatGPT Is Throwing 404](https://chatgpt.com/)
 - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
 
+## 2026-09-03
+
+- [Qwen 3.8 27B available on Cerebras at 1500 tok/SEC](https://inference-docs.cerebras.ai/models/overview)
+- [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+- [OpenAI begins rolling out GPT-6 Astra](https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html)
+- [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/)
+- [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/)
+
