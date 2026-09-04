@@ -614,3 +614,11 @@
 - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
 - [The Two Abstractions of System Design: Hide or Reduce](http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html)
 
+## 2026-09-04
+
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+- [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+- [Project HydraFusion: Frontier quality via multi-model orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/)
+- [IBM Bob](https://bob.ibm.com/)
+
