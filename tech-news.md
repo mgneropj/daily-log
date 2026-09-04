@@ -598,3 +598,11 @@
 - [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM)
 - [Project Xanadu: Even More Hindsight (2025)](https://gwern.net/xanadu)
 
+## 2026-09-04
+
+- [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+- [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+- [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
+
