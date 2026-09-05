@@ -630,3 +630,11 @@
 - [I Want a Wife (1971) [pdf]](https://www.sevanoland.com/uploads/1/1/8/0/118081022/_brady_i_want_a_wife.pdf)
 - [Statichost.eu – European static site hosting](https://www.statichost.eu/)
 
+## 2026-09-05
+
+- [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+- [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
+- [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
+
