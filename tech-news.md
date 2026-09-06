@@ -678,3 +678,11 @@
 - [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
 - [Doomscrolling Ourselves to Death](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death)
 
+## 2026-09-06
+
+- [QBittorrent breaks out of sandbox to commit crimes](https://beige.party/@intransitivelie/117057396732763183)
+- [Your intellectual fly is open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
+- [NetBSD 9.5 released and EOL for NetBSD-9](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and)
+- [An Alien Mind](https://openai.com/index/an-alien-mind/)
+- [We monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
+
