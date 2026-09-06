@@ -662,3 +662,11 @@
 - [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)
 - [The ColorChecker, photography's most important 24 squares, turns 50](https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/)
 
+## 2026-09-06
+
+- [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
+- [I Changed My License](https://bergie.iki.fi/blog/eupl/)
+- [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
+- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
+- [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)
+
