@@ -670,3 +670,11 @@
 - [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
 - [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)
 
+## 2026-09-06
+
+- [I Feel about AI](https://beza1e1.tuxen.de/ai_feelings.html)
+- [Intellectual Fly Is Open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
+- [A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
+- [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
+- [Doomscrolling Ourselves to Death](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death)
+
