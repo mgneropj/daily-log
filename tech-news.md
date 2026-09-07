@@ -702,3 +702,11 @@
 - [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
 - [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
 
+## 2026-09-07
+
+- [bzip3](https://github.com/iczelia/bzip3)
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
+- [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/)
+- [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
+
