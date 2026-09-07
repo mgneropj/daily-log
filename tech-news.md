@@ -686,3 +686,11 @@
 - [An Alien Mind](https://openai.com/index/an-alien-mind/)
 - [We monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
 
+## 2026-09-07
+
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+- [Ask HN: Fable hacked my piano, can I release the results?](https://news.ycombinator.com/item?id=49577129)
+- [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
+- [Ask HN: How do you manage skills files?](https://news.ycombinator.com/item?id=49589914)
+
