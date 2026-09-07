@@ -694,3 +694,11 @@
 - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
 - [Ask HN: How do you manage skills files?](https://news.ycombinator.com/item?id=49589914)
 
+## 2026-09-07
+
+- [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
+- [Splash-free urinals for global sustainability and accessibility](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
+- [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
+
