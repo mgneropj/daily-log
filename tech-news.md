@@ -710,3 +710,11 @@
 - [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/)
 - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
 
+## 2026-09-07
+
+- [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
+- [bzip3](https://github.com/iczelia/bzip3)
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/)
+- [PostgreSQL 19 Interactive Tour](https://victoriametrics.com/blog/postgres-19/index.html)
+
