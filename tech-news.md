@@ -718,3 +718,11 @@
 - [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/)
 - [PostgreSQL 19 Interactive Tour](https://victoriametrics.com/blog/postgres-19/index.html)
 
+## 2026-09-08
+
+- [Mistral raises €3B to make sovereign, open-weight AI the technology frontier](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
+- [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
+- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+- [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+- [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
+
