@@ -742,3 +742,11 @@
 - [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)
 - [Show HN: Copperhead – Hardware as Fast as Software](https://copperhead.sh/)
 
+## 2026-09-08
+
+- [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
+- [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
+- [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
+- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+- [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)
+
