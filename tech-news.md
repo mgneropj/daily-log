@@ -766,3 +766,11 @@
 - [Lotus Notes and the dangers of starting from scratch](https://buttondown.com/blog/lotus-notes-email)
 - [How An AI math breakthrough ignited a controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
 
+## 2026-09-09
+
+- [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+- [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/)
+- [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
+- [Claude, change the "Add to Cart" button to blue](https://opusfived.dev/)
+- [GPT-6 Astra, Looped Transformers, and Hidden Reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and)
+
