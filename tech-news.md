@@ -758,3 +758,11 @@
 - [On Really Trying (2009)](https://gwern.net/on-really-trying)
 - [Tension wood: A 'muscle' that can both bend and straighten plants](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html)
 
+## 2026-09-09
+
+- [Flock Wants a Closely Surveilled World with No Exit](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
+- [I advertise malicious software on Google Ads](https://xlii.space/eng/malicious-software-on-google-ads/)
+- [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
+- [Lotus Notes and the dangers of starting from scratch](https://buttondown.com/blog/lotus-notes-email)
+- [How An AI math breakthrough ignited a controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+
