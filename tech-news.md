@@ -798,3 +798,11 @@
 - [Stockfish 19](https://stockfishchess.org/blog/2026/stockfish-19/)
 - [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
 
+## 2026-09-10
+
+- [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
+- [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
+- [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
+- [Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)
+- [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
+
