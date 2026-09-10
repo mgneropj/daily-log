@@ -806,3 +806,11 @@
 - [Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)
 - [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
 
+## 2026-09-10
+
+- [Rust is tier-1 language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
+- [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
+- [I have a theory that software drives people insane](https://graybeard.ing/software-drives-people-insane/)
+- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
+- [NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth](https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844)
+
