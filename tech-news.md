@@ -838,3 +838,11 @@
 - [So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)
 - [Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
 
+## 2026-09-11
+
+- [A Misalignment of AI in Mathematics](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
+- [Top mathematicians are outraged by OpenAI's methods](https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods)
+- [Show HN: Toast, a beautiful by default in terminal IDE](https://github.com/paradise-runner/toast)
+- [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
+- [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
+
