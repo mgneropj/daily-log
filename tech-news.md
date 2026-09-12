@@ -846,3 +846,11 @@
 - [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
 - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
 
+## 2026-09-12
+
+- [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
+- [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
+- [A misalignment of AI in mathematics](https://mathandai.org/)
+- [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
+- [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
+
