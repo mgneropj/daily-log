@@ -854,3 +854,11 @@
 - [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
 - [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
 
+## 2026-09-12
+
+- [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)
+- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
+- [A misalignment of AI in mathematics](https://mathandai.org/)
+- [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+- [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
+
