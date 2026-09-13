@@ -886,3 +886,11 @@
 - [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
 - [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
 
+## 2026-09-13
+
+- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+- ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
+- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+- [Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return)
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+
