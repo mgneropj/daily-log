@@ -894,3 +894,11 @@
 - [Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return)
 - [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
 
+## 2026-09-13
+
+- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
+- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+- ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
+- [Libraries Run Rust Inside Python (With PyO3)](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
+- [Reverse engineering my e-scooter and rewriting the firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/)
+
