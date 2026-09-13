@@ -902,3 +902,11 @@
 - [Libraries Run Rust Inside Python (With PyO3)](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
 - [Reverse engineering my e-scooter and rewriting the firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/)
 
+## 2026-09-13
+
+- [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html)
+- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
+- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
+- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+- [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows)
+
