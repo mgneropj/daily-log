@@ -934,3 +934,11 @@
 - [Principles for Fast Tokio Applications](https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/)
 - [Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme](https://www.neobrutalism.dev/)
 
+## 2026-09-14
+
+- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
+- [Neo Emacs – Emacs from the Future](https://neomacs.org/)
+- [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/)
+- [Steam Frame starts at $1059](https://store.steampowered.com/hardware/steamframe)
+- [A Beginning for Mathematics](https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/)
+
