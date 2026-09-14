@@ -918,3 +918,11 @@
 - [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
 - [Apple's Dimensional Drawings](https://developer.apple.com/accessories/dimensional-drawings/)
 
+## 2026-09-14
+
+- [How to Write an Effective Software Design Document](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/)
+- [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/)
+- [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386)
+- [An atlas of periodic solutions to the three-body problem](https://www.threebodyorbits.com/)
+- [Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row](https://www.sciencedaily.com/releases/2026/09/260909005152.htm)
+
