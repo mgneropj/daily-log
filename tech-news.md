@@ -926,3 +926,11 @@
 - [An atlas of periodic solutions to the three-body problem](https://www.threebodyorbits.com/)
 - [Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row](https://www.sciencedaily.com/releases/2026/09/260909005152.htm)
 
+## 2026-09-14
+
+- [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/)
+- [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
+- [iOS 27, iPadOS 27, and macOS 27 released](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
+- [Principles for Fast Tokio Applications](https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/)
+- [Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme](https://www.neobrutalism.dev/)
+
