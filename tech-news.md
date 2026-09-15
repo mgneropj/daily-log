@@ -950,3 +950,11 @@
 - [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/)
 - [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
 
+## 2026-09-15
+
+- [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
+- [CSS-Tricks in Limbo](https://vale.rocks/micros/20260915-0135)
+- [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)
+- [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+- [25 Years of Mass Surveillance Is Enough](https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html)
+
