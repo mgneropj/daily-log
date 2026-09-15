@@ -958,3 +958,11 @@
 - [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
 - [25 Years of Mass Surveillance Is Enough](https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html)
 
+## 2026-09-15
+
+- [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+- [Swift 6.4 Released](https://www.swift.org/blog/swift-6.4-released/)
+- [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian)
+- [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/)
+- [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/)
+
