@@ -1022,3 +1022,11 @@
 - [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
 - [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
 
+## 2026-09-17
+
+- [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
+- [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/)
+- [Artificial intelligence now beats some of the best human forecasters](https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters)
+- [CrowdSec Source Code Leak](https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure)
+- [Whoisinspace.com/](https://whoisinspace.com)
+
