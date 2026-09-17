@@ -1006,3 +1006,11 @@
 - [Accurate Models of AMD Matrix Cores](https://arxiv.org/abs/2609.14845)
 - [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
 
+## 2026-09-17
+
+- [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
+- [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
+- [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
+- [The Relation Between Mathematics and Physics by Paul Dirac](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html)
+- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
+
