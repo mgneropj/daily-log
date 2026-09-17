@@ -1014,3 +1014,11 @@
 - [The Relation Between Mathematics and Physics by Paul Dirac](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html)
 - [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
 
+## 2026-09-17
+
+- [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+- [How, Exactly, Could A.I. Kill Us?](https://www.newyorker.com/news/q-and-a/how-exactly-could-ai-kill-us)
+- [Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)
+- [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
+- [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
+
