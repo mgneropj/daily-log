@@ -1030,3 +1030,11 @@
 - [CrowdSec Source Code Leak](https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure)
 - [Whoisinspace.com/](https://whoisinspace.com)
 
+## 2026-09-17
+
+- [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)
+- [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
+- [Towards Self-Driving Codebases](https://blog.detail.dev/posts/towards-self-driving-codebases/)
+- [CrowdSec Source Code Leak](https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure)
+- [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/)
+
