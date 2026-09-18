@@ -1054,3 +1054,11 @@
 - [ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
 - [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 
+## 2026-09-18
+
+- [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
+- [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)
+- [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
+- [OpenJev](https://openjev.com/)
+- [Show HN: Rickub – The Smartest Git in the Universe](https://rickub.com/)
+
