@@ -1046,3 +1046,11 @@
 - [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
 - [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
 
+## 2026-09-18
+
+- [Bend 2 and the Vibe-Coding Trap](https://blog.liampwll.com/posts/bend_vibe_coding/)
+- [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
+- [OpenJev](https://openjev.com/)
+- [ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
+- [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+
