@@ -1062,3 +1062,11 @@
 - [OpenJev](https://openjev.com/)
 - [Show HN: Rickub – The Smartest Git in the Universe](https://rickub.com/)
 
+## 2026-09-18
+
+- [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
+- [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/)
+- [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)
+- [Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle)
+- [US Military had close call after using AI for hallucinated intelligence report](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
+
