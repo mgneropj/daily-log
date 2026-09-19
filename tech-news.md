@@ -1086,3 +1086,11 @@
 - [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
 - [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
 
+## 2026-09-19
+
+- [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
+- [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
+- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+- [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
+- [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
+
