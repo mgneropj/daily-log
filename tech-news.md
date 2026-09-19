@@ -1094,3 +1094,11 @@
 - [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
 - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
 
+## 2026-09-19
+
+- [I Built Non-Autoregressive Decision Models with RL a Year Ago](https://laya.convaiinnovations.com/)
+- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
+- [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
+- [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
+
