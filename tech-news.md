@@ -1118,3 +1118,11 @@
 - [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
 - [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
 
+## 2026-09-20
+
+- [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
+- [Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/)
+- [Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/)
+- [Apple iPhone 18 Pro Camera test](https://www.dxomark.com/apple-iphone-18-pro-camera-test/)
+- [A custom virtual machine for the Stars 4X game](https://nullprogram.com/blog/2026/09/17/)
+
