@@ -1150,3 +1150,11 @@
 - [Disney+: New user agreement allows ads before movies in all subscriptions](https://consumerrights.wiki/w/Disney%2B_ad_policy_change)
 - [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
 
+## 2026-09-21
+
+- [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
+- [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
+- [Seattle Bans Rental Junk Fees](https://www.multifamilydive.com/news/seattle-ban-rental-junk-fees/827816/)
+- [Grok 4.7](https://x.ai/news/grok-4-7)
+- [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027)
+
