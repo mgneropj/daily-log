@@ -1158,3 +1158,11 @@
 - [Grok 4.7](https://x.ai/news/grok-4-7)
 - [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027)
 
+## 2026-09-21
+
+- [The NASA/ESA Mars Sample Return mission has been canceled](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)
+- [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
+- [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
+- [Why does mathmain need an encrypted loader?](https://safedep.io/mathmain-encrypted-loader/)
+- [In Search of a Compositional Theory of Self-Stabilization](http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html)
+
