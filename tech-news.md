@@ -1182,3 +1182,11 @@
 - [AMD's random number generator can't generate a 0?](https://board.flatassembler.net/topic.php?t=24261)
 - [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
 
+## 2026-09-22
+
+- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+- [16-bit Intel 8088 chip](https://allpoetry.com/16-bit-Intel-8088-chip)
+- [OpenAI is well positioned to fast-follow Jev](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)
+- [Writing Rust code that's fast by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/)
+
