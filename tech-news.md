@@ -1174,3 +1174,11 @@
 - [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
 - [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
 
+## 2026-09-22
+
+- [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
+- [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
+- [Will Open Source Survive the Agents That Replaced It?](https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/)
+- [AMD's random number generator can't generate a 0?](https://board.flatassembler.net/topic.php?t=24261)
+- [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+
