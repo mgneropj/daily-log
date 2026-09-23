@@ -1206,3 +1206,11 @@
 - [Transit rewards](https://waymo.com/blog/2026/09/transit-rewards/)
 - [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
 
+## 2026-09-23
+
+- [Claude Code reads AGENTS.md only when telemetry is on](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
+- [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
+- [Z80 REPL](https://abagames.github.io/z80-repl/index.html)
+- [What AI-Native Looks Like](https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459)
+- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
+
