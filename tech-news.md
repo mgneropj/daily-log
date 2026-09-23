@@ -1214,3 +1214,11 @@
 - [What AI-Native Looks Like](https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459)
 - [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
 
+## 2026-09-23
+
+- [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
+- [Gemini 3.8 text-to-speech says hello](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)
+- [GPT-6 Astra has gained the ability to drive a car](https://drivingbench.com/)
+- [Stripe's Knowledge AI Platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform)
+- [Strands Harness](https://strandsagents.com/blog/introducing-strands-harness/)
+
