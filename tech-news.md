@@ -1222,3 +1222,11 @@
 - [Stripe's Knowledge AI Platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform)
 - [Strands Harness](https://strandsagents.com/blog/introducing-strands-harness/)
 
+## 2026-09-23
+
+- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+- [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
+- [A brief history of Windows scroll bar shortcuts](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/)
+- [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)
+- [Radicle: Disclosure of Vulnerability in the Network Protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol)
+
