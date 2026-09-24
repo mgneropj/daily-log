@@ -1254,3 +1254,11 @@
 - [I Have a Confession: I Built This Site with AI – Please Forgive Me](https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai)
 - [The science of Monkey Island: can grog dissolve a metal mug that fast?](https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/)
 
+## 2026-09-24
+
+- [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+- [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
+- [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
+- [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)
+- [Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/)
+
