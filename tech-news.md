@@ -1286,3 +1286,11 @@
 - [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
 - [Classified Estimates Show the NSA Is Paying Billions to Test AI Models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
 
+## 2026-09-25
+
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+- [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk)
+- [Advice to a Beginning Graduate Student (2001)](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
+- [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment)
+- [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
+
