@@ -1310,3 +1310,11 @@
 - [Floci: Locally emulating any cloud service](https://floci.io)
 - [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
 
+## 2026-09-26
+
+- [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
+- [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
+- [Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills)
+- [Plunging test scores are a slow-moving catastrophe](https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe)
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+
