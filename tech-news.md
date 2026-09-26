@@ -1302,3 +1302,11 @@
 - [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
 - [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
 
+## 2026-09-26
+
+- [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
+- [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+- [Floci: Locally emulating any cloud service](https://floci.io)
+- [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
+
