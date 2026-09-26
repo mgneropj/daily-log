@@ -1318,3 +1318,11 @@
 - [Plunging test scores are a slow-moving catastrophe](https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe)
 - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
 
+## 2026-09-26
+
+- [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
+- [Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills)
+- [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)
+- [The Lost Atomic Update on Loongson CPU](https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/)
+- [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
+
