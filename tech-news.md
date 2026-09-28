@@ -1358,3 +1358,11 @@
 - [Writing Efficient C++ Code (2013)](https://asawicki.info/articles/writing_efficient_cpp_code.php)
 - [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
 
+## 2026-09-28
+
+- [Prompting Claude Opus 5.5](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5)
+- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
+- [Thinking fast and slow in AI: The role of metacognition (2021)](https://arxiv.org/abs/2110.01834)
+- [Ember-1](https://fireworks.ai/blog/ember-1)
+- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+
