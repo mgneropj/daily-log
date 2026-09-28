@@ -1374,3 +1374,11 @@
 - [What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
 - [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
 
+## 2026-09-28
+
+- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+- [Hijacking the PS5's RTMP stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
+- [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/)
+- [Joseph Szabo’s pictures of American adolescents](https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola)
+- [Launch HN: Vespper (YC F24) – SOTA Docx MCP](https://www.vespper.com/blog/launching-vespper-docx-mcp)
+
