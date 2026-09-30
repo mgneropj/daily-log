@@ -1438,3 +1438,11 @@
 - [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
 - [Upgrade your desktop: Ubuntu 26.04.1 LTS is now available](https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts)
 
+## 2026-09-30
+
+- [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
+- [A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal)
+- [Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)
+- [You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
+- [Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603)
+
