@@ -1422,3 +1422,11 @@
 - [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
 - [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit)
 
+## 2026-09-30
+
+- [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/)
+- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+- [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/)
+- [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
+- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+
