@@ -1430,3 +1430,11 @@
 - [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
 - [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
 
+## 2026-09-30
+
+- [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
+- [Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96)
+- [SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
+- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+- [Upgrade your desktop: Ubuntu 26.04.1 LTS is now available](https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts)
+
