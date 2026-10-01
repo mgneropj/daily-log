@@ -1470,3 +1470,11 @@
 - [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design)
 - [Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html)
 
+## 2026-10-01
+
+- [Clef: Open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
+- [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
+- [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
+- [RacketCon Is Saturday](https://con.racket-lang.org/)
+- [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569)
+
