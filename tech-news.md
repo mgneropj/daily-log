@@ -1502,3 +1502,11 @@
 - [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
 - [Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)
 
+## 2026-10-02
+
+- [Dutch Computer Museums](https://aresluna.org/dutch-computer-museums/)
+- [The Legend of von Neumann (1973) [pdf]](https://gwern.net/doc/math/1973-halmos.pdf)
+- [Tiny Brutalism](https://placeholders.itch.io/tiny-brutalism)
+- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
+- [ICC judge on what U.S. sanctions mean for her and global courts](https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost)
+
