@@ -1486,3 +1486,11 @@
 - [Oxygen-deprived underwater zones may not be "dead zones" but clue to early life](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570)
 - [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
 
+## 2026-10-02
+
+- [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+- [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
+- [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
+- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+- [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)
+
