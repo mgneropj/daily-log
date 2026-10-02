@@ -1510,3 +1510,11 @@
 - [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
 - [ICC judge on what U.S. sanctions mean for her and global courts](https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost)
 
+## 2026-10-02
+
+- [Apple Pass Designer](https://developer.apple.com/pass-designer/)
+- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
+- [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
+- [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
+- [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
+
