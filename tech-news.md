@@ -1526,3 +1526,11 @@
 - [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
 - [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
 
+## 2026-10-03
+
+- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
+- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
+- [Apple Pass Designer](https://developer.apple.com/pass-designer/)
+- [GitHub's new dashboard experience now the default](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/)
+- [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
+
