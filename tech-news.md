@@ -1518,3 +1518,11 @@
 - [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
 - [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
 
+## 2026-10-03
+
+- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
+- [Understanding Frontier Artificial Intelligence](https://casp.ac/reports/intelligence-explosion)
+- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
+- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
+- [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
+
