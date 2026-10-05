@@ -1598,3 +1598,11 @@
 - [Denmark Data Breach Exposes 8.8M People's Personal Data](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
 - [Mold Linker Version 3.0.0 Release – Rewritten in Rust](https://github.com/rui314/mold/releases/tag/v3.0.0)
 
+## 2026-10-05
+
+- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
+- [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
+- [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
+- [Find the flattest route between any two points in SF](https://flattensf.com/)
+- [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
+
