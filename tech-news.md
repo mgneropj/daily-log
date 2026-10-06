@@ -1622,3 +1622,11 @@
 - [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
 - [Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)
 
+## 2026-10-06
+
+- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
+- [Adobe Creative Suite Cleanroom Port to Rust](https://github.com/storytold/photocraft)
+- [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
+- [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
+- [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
+
