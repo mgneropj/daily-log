@@ -1614,3 +1614,11 @@
 - [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
 - [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
 
+## 2026-10-06
+
+- [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
+- [Mistral Large 4: "Le Chonk"](https://mistral.ai/news/mistral-large-4/)
+- [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
+- [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
+- [Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)
+
