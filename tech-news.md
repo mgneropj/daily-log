@@ -1606,3 +1606,11 @@
 - [Find the flattest route between any two points in SF](https://flattensf.com/)
 - [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
 
+## 2026-10-06
+
+- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
+- [Accountability mechanisms can be joyful (2024)](https://liquidbrain.net/blog/accountability-and-joy/)
+- [Find the flattest route between any two points in SF](https://flattensf.com/)
+- [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
+- [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
+
