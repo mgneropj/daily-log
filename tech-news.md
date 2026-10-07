@@ -1646,3 +1646,11 @@
 - [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
 - [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb)
 
+## 2026-10-07
+
+- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+- [SynthID Detector](https://synthid.com/)
+- [Google Playground](https://labs.google/playground)
+- [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
+- [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/)
+
