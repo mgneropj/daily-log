@@ -1686,3 +1686,11 @@
 - [The Slow Formation of Durable Software](https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/)
 - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
 
+## 2026-10-08
+
+- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+- [Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)
+- [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
+- [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)
+- [Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age](https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/)
+
