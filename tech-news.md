@@ -1726,3 +1726,11 @@
 - [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 - [Nobel Peace Prize for 2026 to Navanethem Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
 
+## 2026-10-09
+
+- [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
+- [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
+- [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
+- [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
+- [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
+
