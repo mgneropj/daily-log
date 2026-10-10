@@ -1750,3 +1750,11 @@
 - [REA Reverse – Engineer Anything](https://rea.tools/)
 - [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
 
+## 2026-10-10
+
+- [Grieving the Loss of Details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
+- [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)
+- [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
+- [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
+- [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart)
+
