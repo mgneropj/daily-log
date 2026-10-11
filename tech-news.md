@@ -1790,3 +1790,11 @@
 - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
 - [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/)
 
+## 2026-10-11
+
+- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+- [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
+- [NYC's "Click to Cancel" rule is now in effect](https://www.nyc.gov/main/click-to-cancel)
+- [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
+- [apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)
+
