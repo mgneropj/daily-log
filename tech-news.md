@@ -1774,3 +1774,11 @@
 - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
 - [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
 
+## 2026-10-11
+
+- [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
+- [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
+- [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
+- [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+- [Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net)
+
