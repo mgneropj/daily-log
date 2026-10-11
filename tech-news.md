@@ -1766,3 +1766,11 @@
 - [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
 - [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
 
+## 2026-10-11
+
+- [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
+- [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
+- [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
+- [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
+
