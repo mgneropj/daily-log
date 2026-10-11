@@ -1782,3 +1782,11 @@
 - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
 - [Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net)
 
+## 2026-10-11
+
+- [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
+- [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
+- [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
+- [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+- [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/)
+
