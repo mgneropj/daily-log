@@ -1806,3 +1806,11 @@
 - [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
 - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 
+## 2026-10-12
+
+- [GLM-Legal: Advancing Agentic Legal Intelligence](https://z.ai/blog/glm-legal)
+- [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
+- [The Making Of Super Mario 64 – full Giles Goddard interview (2001)](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/)
+- [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
+- [Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr)
+
