@@ -1814,3 +1814,11 @@
 - [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
 - [Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr)
 
+## 2026-10-12
+
+- [GLM-Legal](https://z.ai/blog/glm-legal)
+- [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
+- [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
+- [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
+- [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
+
