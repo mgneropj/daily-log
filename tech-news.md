@@ -1798,3 +1798,11 @@
 - [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
 - [apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)
 
+## 2026-10-12
+
+- [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
+- [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+- [Postgres isn't slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
+- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+- [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+
