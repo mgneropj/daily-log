@@ -1822,3 +1822,11 @@
 - [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
 - [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
 
+## 2026-10-12
+
+- [AI Is a Tool. Using It Well Takes Skill.](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+- [GLM-Legal](https://z.ai/blog/glm-legal)
+- [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
+- [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
+- [Who Is Vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
+
