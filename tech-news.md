@@ -1830,3 +1830,11 @@
 - [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
 - [Who Is Vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
 
+## 2026-10-13
+
+- [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
+- [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
+- [Were Software Engineers blue-collar workers all along?](https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along)
+- [GLM-Legal](https://z.ai/blog/glm-legal)
+- [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
+
