@@ -1838,3 +1838,11 @@
 - [GLM-Legal](https://z.ai/blog/glm-legal)
 - [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
 
+## 2026-10-13
+
+- [Apple HomeView](https://www.apple.com/apple-homeview/)
+- [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
+- [We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/)
+- [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
+- [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
+
