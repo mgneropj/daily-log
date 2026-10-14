@@ -1878,3 +1878,11 @@
 - [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
 - [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 
+## 2026-10-14
+
+- [Iosevka is an open-source, sans-serif and slab-serif monospace font](https://typeof.net/Iosevka/)
+- [Submarine cable resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
+- [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
+- [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
+- [Amsterdam police confisquates server left-wing ISP A/I at American request](https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960)
+
