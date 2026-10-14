@@ -1886,3 +1886,11 @@
 - [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 - [Amsterdam police confisquates server left-wing ISP A/I at American request](https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960)
 
+## 2026-10-14
+
+- [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
+- [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse)
+- [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
+- [Iosevka is an open-source, sans-serif and slab-serif monospace font](https://typeof.net/Iosevka/)
+- [Phloem: Git history grown like a slime mold](https://phloem.stemdeck.app/)
+
