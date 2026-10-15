@@ -1894,3 +1894,11 @@
 - [Iosevka is an open-source, sans-serif and slab-serif monospace font](https://typeof.net/Iosevka/)
 - [Phloem: Git history grown like a slime mold](https://phloem.stemdeck.app/)
 
+## 2026-10-15
+
+- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+- [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
+- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
+- [Tiny Little Office](https://tinylittleoffice.com/)
+- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+
