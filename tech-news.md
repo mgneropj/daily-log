@@ -1910,3 +1910,11 @@
 - [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
 - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 
+## 2026-10-15
+
+- [I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year)
+- [Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
+- [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
+- [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
+- [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
+
