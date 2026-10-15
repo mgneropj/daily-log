@@ -1918,3 +1918,11 @@
 - [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
 - [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
 
+## 2026-10-15
+
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
+- [Neural networks are clean](https://already-clean.goodfire.com/)
+- [Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3)
+- [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
+- [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
+
