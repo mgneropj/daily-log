@@ -1902,3 +1902,11 @@
 - [Tiny Little Office](https://tinylittleoffice.com/)
 - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
 
+## 2026-10-15
+
+- [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
+- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+- [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
+- [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
+- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
+
