@@ -1926,3 +1926,11 @@
 - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
 - [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
 
+## 2026-10-16
+
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
+- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+- ['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/)
+- [Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)
+- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
+
