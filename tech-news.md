@@ -1942,3 +1942,11 @@
 - [The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)
 - [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
 
+## 2026-10-16
+
+- [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)
+- [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
+- [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
+- [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
+- [America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation)
+
