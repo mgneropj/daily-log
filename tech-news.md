@@ -1934,3 +1934,11 @@
 - [Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)
 - [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
 
+## 2026-10-16
+
+- [Yet another way to invoke functions without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/)
+- [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU)
+- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+- [The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
+
