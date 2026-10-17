@@ -1974,3 +1974,11 @@
 - [We Still Use Paper](https://humanpro.co/articles/we-still-use-paper/)
 - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 
+## 2026-10-17
+
+- [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+- [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
+- [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
+- [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/)
+- [The First Candid](https://www.newyorker.com/magazine/2026/10/19/the-first-candid)
+
