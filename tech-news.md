@@ -1982,3 +1982,11 @@
 - [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/)
 - [The First Candid](https://www.newyorker.com/magazine/2026/10/19/the-first-candid)
 
+## 2026-10-17
+
+- [Linux bugs fixed per release over time: >2× rise since 2026-04](https://lwn.net/Articles/1088776/)
+- [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
+- [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
+- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+- [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
+
