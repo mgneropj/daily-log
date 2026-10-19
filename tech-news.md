@@ -2046,3 +2046,11 @@
 - [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
 - [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 
+## 2026-10-19
+
+- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
+- [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
+- [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
+- [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
+
