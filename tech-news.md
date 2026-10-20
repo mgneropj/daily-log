@@ -2062,3 +2062,11 @@
 - [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
 - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 
+## 2026-10-20
+
+- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
+- [Demographic "Doomsday" Misses the Mark](https://www.science.org/doi/10.1126/science.ael8752)
+- [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
+- [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
+- [OpenBSD 8.0](https://www.openbsd.org/80.html)
+
