@@ -2070,3 +2070,11 @@
 - [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
 - [OpenBSD 8.0](https://www.openbsd.org/80.html)
 
+## 2026-10-20
+
+- [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
+- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
+- [Voxtral 3](https://mistral.ai/news/voxtral-3/)
+- [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
+- [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
+
