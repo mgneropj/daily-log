@@ -2078,3 +2078,11 @@
 - [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
 - [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 
+## 2026-10-20
+
+- [SimCity, but with Permits](https://permit.petercai.com/)
+- [Voxtral 3](https://mistral.ai/news/voxtral-3/)
+- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
+- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
+- [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)
+
