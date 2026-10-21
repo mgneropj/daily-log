@@ -2094,3 +2094,11 @@
 - [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509)
 - [Voxtral 3](https://mistral.ai/news/voxtral-3/)
 
+## 2026-10-21
+
+- [Dutch National Cyber Security Center is Offline because it uses PHP](https://www.ncsc.nl/actueel)
+- [Qwen3-Coder writes less secure code when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities)
+- [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+- [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
+- [Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels](https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels)
+
