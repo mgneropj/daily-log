@@ -2086,3 +2086,11 @@
 - [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
 - [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)
 
+## 2026-10-21
+
+- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+- [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
+- [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
+- [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509)
+- [Voxtral 3](https://mistral.ai/news/voxtral-3/)
+
