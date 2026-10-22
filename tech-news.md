@@ -2142,3 +2142,11 @@
 - [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
 - [Arc Is Sunsetting](https://arc.net/)
 
+## 2026-10-22
+
+- [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
+- [eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
+- [Nvidia OpenShell](https://github.com/NVIDIA/OpenShell)
+- [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
+- [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
+
