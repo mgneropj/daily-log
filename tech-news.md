@@ -2174,3 +2174,11 @@
 - [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)
 - [eMudhra ignored Mozilla Root investigation deadline; blames social media](https://bugzilla.mozilla.org/show_bug.cgi?id=2083449)
 
+## 2026-10-23
+
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+- [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
+- [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
+- [Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line](https://artificialanalysis.ai/models/kimi-k3-1-pro)
+- [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
+
