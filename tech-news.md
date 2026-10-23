@@ -2158,3 +2158,11 @@
 - [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images)
 - [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
 
+## 2026-10-23
+
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+- [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+- [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
+- [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
+- [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania)
+
