@@ -2166,3 +2166,11 @@
 - [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
 - [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania)
 
+## 2026-10-23
+
+- [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
+- [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+- [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)
+- [eMudhra ignored Mozilla Root investigation deadline; blames social media](https://bugzilla.mozilla.org/show_bug.cgi?id=2083449)
+
