@@ -2238,3 +2238,11 @@
 - [A Few Thoughts on Intensity](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
 - [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
 
+## 2026-10-25
+
+- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
+- [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
+- [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
+- [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
+- [VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]](https://www.youtube.com/watch?v=46wxttvq9qY)
+
