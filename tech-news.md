@@ -2230,3 +2230,11 @@
 - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 - [Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)
 
+## 2026-10-25
+
+- [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)
+- [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)
+- [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
+- [A Few Thoughts on Intensity](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
+- [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
+
