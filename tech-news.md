@@ -2270,3 +2270,11 @@
 - [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
 - [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
 
+## 2026-10-26
+
+- [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
+- [Somebody please stop the spam texts](https://notes.npilk.com/stop-the-spam-texts)
+- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+- [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
+- [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
+
