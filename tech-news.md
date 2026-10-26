@@ -2262,3 +2262,11 @@
 - [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
 - [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)
 
+## 2026-10-26
+
+- [Meta Employees Denounce Interference in Brazilian Elections](https://www.panamericandispatch.org/p/meta-employees-denounce-interference)
+- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+- [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
+- [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
+- [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
+
