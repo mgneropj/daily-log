@@ -2294,3 +2294,11 @@
 - [AI promised less work. I've never worked more](https://oioannou.com/blog/ai-promised-less-work/)
 - [Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%](https://www.wiz.io/blog/php2shell-exploitation-so-far)
 
+## 2026-10-27
+
+- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+- [Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
+- [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
+- [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
+- [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
+
