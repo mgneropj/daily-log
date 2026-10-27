@@ -2286,3 +2286,11 @@
 - [New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients](https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients)
 - [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 
+## 2026-10-27
+
+- [Roblox downloaded 145GB models from us (including adult content) without asking](https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/)
+- [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
+- [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
+- [AI promised less work. I've never worked more](https://oioannou.com/blog/ai-promised-less-work/)
+- [Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%](https://www.wiz.io/blog/php2shell-exploitation-so-far)
+
