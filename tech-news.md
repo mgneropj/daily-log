@@ -2302,3 +2302,11 @@
 - [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
 - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 
+## 2026-10-27
+
+- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+- [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
+- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
+- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
+- [New 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
+
