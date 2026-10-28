@@ -2326,3 +2326,11 @@
 - [ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/)
 - [Kentucky man becomes the first humanist granted religious exemption from AI](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
 
+## 2026-10-28
+
+- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
+- [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
+- [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
+- [Mac Studio M5 Ultra 512GB Officially Released](https://www.apple.com/shop/buy-mac/mac-studio)
+
