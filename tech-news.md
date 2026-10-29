@@ -2366,3 +2366,11 @@
 - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 - [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
 
+## 2026-10-29
+
+- [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
+- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
+- [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
+- [Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/)
+- [Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)
+
