@@ -2430,3 +2430,11 @@
 - [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
 - [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
 
+## 2026-10-31
+
+- [GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/)
+- [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
+- [Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
+- [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
+- [It's the Memory Latency, Stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)
+
