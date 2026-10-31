@@ -2422,3 +2422,11 @@
 - [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
 - [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
 
+## 2026-10-31
+
+- [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
+- [Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
+- [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
+- [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
+- [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
+
