@@ -2438,3 +2438,11 @@
 - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
 - [It's the Memory Latency, Stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)
 
+## 2026-11-01
+
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+- [Japan's trains are great. Why is booking one so hard?](https://vinibrasil.com/japan-train/)
+- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+- [Running a bootstrapped SaaS for 20 years with my brother](https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/)
+
