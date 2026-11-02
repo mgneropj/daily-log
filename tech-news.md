@@ -2494,3 +2494,11 @@
 - [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)
 - [Show HN: Warsaw in voxels – An interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)
 
+## 2026-11-02
+
+- [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+- [Anthropic's growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened)
+- [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
+- [Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/)
+- [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
+
