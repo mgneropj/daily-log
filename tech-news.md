@@ -2502,3 +2502,11 @@
 - [Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/)
 - [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
 
+## 2026-11-03
+
+- [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+- [No Vehicles in the Park](https://novehiclesinthepark.com/)
+- [Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)
+- [Toit v2.0.0](https://toit.io/blog/toit-v2-0-0/)
+- [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+
