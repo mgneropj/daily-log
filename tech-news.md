@@ -2510,3 +2510,11 @@
 - [Toit v2.0.0](https://toit.io/blog/toit-v2-0-0/)
 - [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
+## 2026-11-03
+
+- [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)
+- [Just a little AI resistance, as a treat](https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/)
+- [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
+- [Octomind – open-source AI harness that saves your tokens, static rust](https://github.com/Muvon/octomind)
+- [The AI Bubble Monitor](https://cepr.net/publications/ai-bubble-monitor/)
+
