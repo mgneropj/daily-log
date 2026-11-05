@@ -2582,3 +2582,11 @@
 - [MCP Explained](https://mcp-explained.com/)
 - [OpenSSH 10.6p2 Critical workaround for alpine without PAM](https://www.openssh.org/releasenotes.html#10.6p2)
 
+## 2026-11-05
+
+- [sshole](https://sshhole.com)
+- [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
+- [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/)
+- [How to Lie With Statistics (1954) [pdf]](https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf)
+- [Window Sweaters](https://github.com/saragordic/window-sweaters)
+
