@@ -2590,3 +2590,11 @@
 - [How to Lie With Statistics (1954) [pdf]](https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf)
 - [Window Sweaters](https://github.com/saragordic/window-sweaters)
 
+## 2026-11-05
+
+- [sshole](https://sshhole.com)
+- [Kagi Search for Everyone](https://kagi.com/changelog)
+- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+- [The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)
+- [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
+
