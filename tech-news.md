@@ -2574,3 +2574,11 @@
 - [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
 - [Partial Operator Precedence](https://ziglang.org/devlog/2026/#2026-10-24)
 
+## 2026-11-05
+
+- [Sshole](https://sshhole.com)
+- [Alpine Linux Security advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
+- [September in Servo: <progress>, rounded rectangles, and more](https://servo.org/blog/2026/11/05/september-in-servo/)
+- [MCP Explained](https://mcp-explained.com/)
+- [OpenSSH 10.6p2 Critical workaround for alpine without PAM](https://www.openssh.org/releasenotes.html#10.6p2)
+
