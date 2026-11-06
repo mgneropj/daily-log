@@ -2598,3 +2598,11 @@
 - [The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)
 - [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
 
+## 2026-11-06
+
+- [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
+- [sshole](https://sshhole.com)
+- [Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz)
+- [Multiplayer tanks that demolish real buildings from OpenStreetMap](https://worldstrike.fun/)
+
