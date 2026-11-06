@@ -2606,3 +2606,11 @@
 - [Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz)
 - [Multiplayer tanks that demolish real buildings from OpenStreetMap](https://worldstrike.fun/)
 
+## 2026-11-06
+
+- [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
+- [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
+- [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
+- [FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
+
