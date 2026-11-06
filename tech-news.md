@@ -2614,3 +2614,11 @@
 - [FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)
 - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
 
+## 2026-11-06
+
+- [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
+- [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
+- [We know 15k websites are infected. how do we tell them?](https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/)
+- [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html)
+- [Size-It-Up (Game)](https://magnitudle.com/size-it-up)
+
