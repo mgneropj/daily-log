@@ -2686,3 +2686,11 @@
 - [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html)
 - [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)
 
+## 2026-11-08
+
+- [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+- [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
+- [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
+- [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
+- [Declarative Dragging](https://declarative-dragging.github.io/)
+
