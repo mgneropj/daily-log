@@ -2678,3 +2678,11 @@
 - [Quadrillion-parameter transformers and how to train them](https://qlabs.sh/research/parameters)
 - [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
 
+## 2026-11-08
+
+- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
+- [The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/)
+- [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
+- [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html)
+- [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)
+
