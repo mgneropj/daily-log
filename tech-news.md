@@ -2670,3 +2670,11 @@
 - [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
 - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
 
+## 2026-11-08
+
+- [Person of Interest](https://krthr.co/person-of-interest/)
+- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
+- [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
+- [Quadrillion-parameter transformers and how to train them](https://qlabs.sh/research/parameters)
+- [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
+
