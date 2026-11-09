@@ -2710,3 +2710,11 @@
 - [Magenta solar panels may be agrivoltaics' cleverest trick yet](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
 - [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/)
 
+## 2026-11-09
+
+- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
+- [Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)
+- [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+- [E-means: 10x faster k-means at equal loss](https://e-means.github.io/)
+- [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
+
