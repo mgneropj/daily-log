@@ -2718,3 +2718,11 @@
 - [E-means: 10x faster k-means at equal loss](https://e-means.github.io/)
 - [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
 
+## 2026-11-09
+
+- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
+- [TPUs](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
+- [Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)
+- [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
+- [Tracking the Harm of DOGE Cuts](https://www.clasp.org/doge-tracker/)
+
