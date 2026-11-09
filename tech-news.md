@@ -2702,3 +2702,11 @@
 - [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
 - [PixelOS](https://pixelos.net/)
 
+## 2026-11-09
+
+- [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+- [Going back two years on Hacker News is like entering another, better universe](https://news.ycombinator.com/front?day=2024-11-08)
+- [Fold Epic Paper Airplanes](https://www.foldableflight.com)
+- [Magenta solar panels may be agrivoltaics' cleverest trick yet](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
+- [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/)
+
