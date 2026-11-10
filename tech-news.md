@@ -2726,3 +2726,11 @@
 - [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
 - [Tracking the Harm of DOGE Cuts](https://www.clasp.org/doge-tracker/)
 
+## 2026-11-10
+
+- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
+- [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
+- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
+- [Your TV can see through walls](https://maurycyz.com/projects/fading/)
+
