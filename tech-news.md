@@ -2734,3 +2734,11 @@
 - [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
 - [Your TV can see through walls](https://maurycyz.com/projects/fading/)
 
+## 2026-11-10
+
+- [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
+- [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
+- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
+- [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
+- [Taking another shot at the cheap IP camera, part 2](https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/)
+
