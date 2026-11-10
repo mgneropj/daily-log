@@ -2750,3 +2750,11 @@
 - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 - [Val Town is winding down](https://blog.val.town/winding-down)
 
+## 2026-11-10
+
+- [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
+- [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
+- [Sherman Anti-Trust Act (1890](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
+- [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)
+- [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
+
