@@ -2742,3 +2742,11 @@
 - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
 - [Taking another shot at the cheap IP camera, part 2](https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/)
 
+## 2026-11-10
+
+- [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
+- [Starlink Mini 2](https://starlink.com/mini-2)
+- [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
+- [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
+- [Val Town is winding down](https://blog.val.town/winding-down)
+
