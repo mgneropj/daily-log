@@ -2830,3 +2830,11 @@
 - [The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/)
 - [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 
+## 2026-11-13
+
+- [Reverse Engineering My Coway Air Purifier to Ditch the Cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
+- [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
+- [Why Zig over C for Systems Programming](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)
+- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+- [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
+
