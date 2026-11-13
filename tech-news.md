@@ -2846,3 +2846,11 @@
 - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
 - [The avalanche that hit math is coming for AI development](https://www.dwarkesh.com/p/rsi)
 
+## 2026-11-13
+
+- [FAA Issues National Ground Stop](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111)
+- [$11.4M in Nvidia hardware vanishes during shipment from CA to TX](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas)
+- [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
+- [FM-1 Workbench](https://open.m-vave.com/fm1-workbench)
+- [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)
+
