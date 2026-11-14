@@ -2854,3 +2854,11 @@
 - [FM-1 Workbench](https://open.m-vave.com/fm1-workbench)
 - [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)
 
+## 2026-11-14
+
+- [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
+- [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
+- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+- [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
+- [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
+
