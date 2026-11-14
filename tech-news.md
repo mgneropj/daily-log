@@ -2862,3 +2862,11 @@
 - [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
 - [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
 
+## 2026-11-14
+
+- [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
+- [The Claude Delusion](https://www.netmeister.org/blog/claude-delusion.html)
+- [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)
+- [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
+- [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
+
