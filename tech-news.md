@@ -2902,3 +2902,11 @@
 - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 - [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
 
+## 2026-11-15
+
+- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
+- [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
+- [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
+- [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
+- [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
+
