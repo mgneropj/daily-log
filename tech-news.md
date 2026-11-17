@@ -2958,3 +2958,11 @@
 - [Japan's Hometown Tax (2018)](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
 - [Nimony: A New Compiler for Nim](https://nimony.org/)
 
+## 2026-11-17
+
+- [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
+- [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
+- [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
+- [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
+- [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
+
