@@ -2998,3 +2998,11 @@
 - [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
 - [U.S. AirForce is looking for old storage Media (CF or PC cards)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view)
 
+## 2026-11-18
+
+- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+- [Scottish HTTP Codes](https://underwood.network/http/scots.html)
+- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+- [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
+- [Inside Deutsche Bank](https://www.inside-db.com/)
+
