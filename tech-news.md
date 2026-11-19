@@ -3030,3 +3030,11 @@
 - [Cooling buildings is overtaking heating them as an energy need, IEA says](https://maccus.fr/en/cooling-overtaking-heating/)
 - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 
+## 2026-11-19
+
+- [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+- [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
+- [Pancreatic cancer halted by virus injection in three patients](https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
+- [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
+- [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
+
