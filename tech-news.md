@@ -3062,3 +3062,11 @@
 - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
 - [Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato)
 
+## 2026-11-20
+
+- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
+- [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
+- [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
+- [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
+- [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
+
