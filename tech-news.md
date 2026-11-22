@@ -3118,3 +3118,11 @@
 - [Sandwich Simulator](https://stulle.app/)
 - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
 
+## 2026-11-22
+
+- [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+- [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
+- [A real Linux kernel, compiled to WebAssembly](https://github.com/pithings/unkernel)
+- [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
+- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+
