@@ -3190,3 +3190,11 @@
 - [What Cloudflare Doesn't Tell You](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/)
 - [OpenAI reveals they solved VP ≠ VNP before Anthropic](https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026)
 
+## 2026-11-24
+
+- [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
+- [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
+- [Working with AI](https://www.anthropic.com/research/working-with-ai)
+- [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
+- [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
+
