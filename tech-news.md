@@ -3182,3 +3182,11 @@
 - [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
 - [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 
+## 2026-11-24
+
+- [Active Intrusion Campaign Against Check Point Security Management Servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
+- [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro)
+- [Mechanical Pencil: Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
+- [What Cloudflare Doesn't Tell You](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/)
+- [OpenAI reveals they solved VP ≠ VNP before Anthropic](https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026)
+
