@@ -3222,3 +3222,11 @@
 - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 - [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
 
+## 2026-11-25
+
+- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
+- [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
+- [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
+- [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
+- [SSH is a GUI framework](https://zydra.sh/articles/ssh-is-a-gui-framework/)
+
