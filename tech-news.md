@@ -3230,3 +3230,11 @@
 - [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
 - [SSH is a GUI framework](https://zydra.sh/articles/ssh-is-a-gui-framework/)
 
+## 2026-11-25
+
+- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
+- [Jev is (probably) Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)
+- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
+- [The New York Times tells photographers not to use the latest Photoshop](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/)
+- [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
+
