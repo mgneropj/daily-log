@@ -3246,3 +3246,11 @@
 - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 - [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
 
+## 2026-11-26
+
+- [Tracking Diseases Cured by AI](https://diseasescuredbyai.com/)
+- [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
+- [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations)
+- [YouTube Ad Punisher – Bypass anti-adblock](https://github.com/antonpictures/youtube-punisher)
+- [Intel One Mono font](https://github.com/intel/intel-one-mono)
+
