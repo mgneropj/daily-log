@@ -3254,3 +3254,11 @@
 - [YouTube Ad Punisher – Bypass anti-adblock](https://github.com/antonpictures/youtube-punisher)
 - [Intel One Mono font](https://github.com/intel/intel-one-mono)
 
+## 2026-11-26
+
+- [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
+- [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
+- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
+- [Show HN: Fuck_data_brokers.py](https://github.com/gary23w/f-ck_data_brokers)
+- [The USA as a Civilizations-esque map](https://karpathy.ai/usaciv/)
+
