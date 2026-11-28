@@ -3310,3 +3310,11 @@
 - [Knuth: Moratorium on Error Reports](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html)
 - [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
 
+## 2026-11-28
+
+- [Farewell](https://github.com/p-e-w/heretic/issues/601)
+- [Audible removes download option for purchased audiobooks](https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks)
+- [Claude Code sabotage: preliminary benchmarking](https://xinyadu.github.io/blog/claude-code-sabotage.html)
+- [If AI takes every job who will buy things?](https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things)
+- [Physics Breakthrough Simulator](https://pages.ethanmdavidson.com/ai-physics-breakthrough)
+
